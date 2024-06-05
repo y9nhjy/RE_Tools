@@ -14,6 +14,7 @@
 * [HEX工具](#HEX工具)
 * [PE工具](#PE工具)
 * [安卓逆向工具](#安卓逆向工具)
+* [反汇编工具](#反汇编工具)
 * [调试工具](#调试工具)
 * [监控工具](#监控工具)
 * [密码工具](#密码工具)
@@ -65,18 +66,18 @@
 
 * [GitHub - iBotPeaches/Apktool: A tool for reverse engineering Android apk files](https://github.com/iBotPeaches/Apktool)
 
+# 反汇编工具
+
+* [IDA Pro: Hex Rays – State-of-the-art binary code analysis solutions (hex-rays.com)](https://hex-rays.com/)
+* [GitHub - avast/retdec: RetDec is a retargetable machine-code decompiler based on LLVM](https://github.com/avast/retdec)
+* [GitHub - NationalSecurityAgency/ghidra: Ghidra is a software reverse engineering (SRE) framework](https://github.com/NationalSecurityAgency/ghidra)
+
 # 调试工具
 
 * [GitHub - x64dbg/x64dbg: An open-source user mode debugger for Windows](https://github.com/x64dbg/x64dbg)
-
 * [OllyDbg v1.10](https://www.ollydbg.de/)
-
-* [IDA Pro: Hex Rays – State-of-the-art binary code analysis solutions (hex-rays.com)](https://hex-rays.com/)
-
 * [WinDbg - Windows drivers | Microsoft Learn](https://learn.microsoft.com/zh-CN/windows-hardware/drivers/debugger/)
-
 * [Cheat Engine](https://www.cheatengine.org/)
-
 * [DebugView - Sysinternals | Microsoft Learn](https://learn.microsoft.com/zh-cn/sysinternals/downloads/debugview)
 
 # 监控工具
