@@ -9,72 +9,96 @@
 
 # 目录
 
-* .NET逆向工具
-  * [GitHub - dnSpy/dnSpy: .NET debugger and assembly editor](https://github.com/dnSpy/dnSpy)
-  * [GitHub - icsharpcode/ILSpy: .NET Decompiler with support for PDB generation](https://github.com/icsharpcode/ILSpy)
-  * [dotPeek: Free .NET Decompiler & Assembly Browser by JetBrains](https://www.jetbrains.com/decompiler/)
-* ARK工具
-  * [GitHub - szdyg/HRSword: 火绒剑独立版](https://github.com/szdyg/HRSword)
+* [.NET逆向工具](#.NET逆向工具)
+* [ARK工具](#ARK工具)
+* [HEX工具](#HEX工具)
+* [PE工具](#PE工具)
+* [安卓逆向工具](#安卓逆向工具)
+* [调试工具](#调试工具)
+* [监控工具](#监控工具)
+* [密码工具](#密码工具)
+* [网络工具](#网络工具)
+* [IDA插件](#IDA插件)
 
-  * [GitHub - ClownQq/YDArk: X64内核小工具](https://github.com/ClownQq/YDArk)
 
-  * [GitHub - k273811702/NoOne: 一款windows64位的ark工具 rootkit](https://github.com/k273811702/NoOne)
 
-  * [ATOOL | 安天实验室](https://www.antiy.com/tools.html)
-  
-  * PCHunter
-  
-* HEX工具
-  * [010 Editor - Pro Text/Hex Editor](https://www.sweetscape.com/)
+# .NET逆向工具
 
-  * [WinHex: Hex Editor & Disk Editor](https://www.x-ways.net/winhex/)
+* [GitHub - dnSpy/dnSpy: .NET debugger and assembly editor](https://github.com/dnSpy/dnSpy)
+* [GitHub - icsharpcode/ILSpy: .NET Decompiler with support for PDB generation](https://github.com/icsharpcode/ILSpy)
+* [dotPeek: Free .NET Decompiler & Assembly Browser by JetBrains](https://www.jetbrains.com/decompiler/)
 
-* PE工具
-  * [GitHub - ExeinfoASL/Exeinfo: exeinfo PE for Windows by A.S.L](https://github.com/ExeinfoASL/Exeinfo)
 
-  * PEiD
+# ARK工具
 
-  * [GitHub - horsicq/Detect-It-Easy: Program for determining types of files](https://github.com/horsicq/Detect-It-Easy)
+* [GitHub - szdyg/HRSword: 火绒剑独立版](https://github.com/szdyg/HRSword)
 
-  * [PPEE - Professional PE Explorer (mzrst.com)](https://www.mzrst.com/)
+* [GitHub - ClownQq/YDArk: X64内核小工具](https://github.com/ClownQq/YDArk)
 
-* 安卓逆向工具
-  * [GitHub - skylot/jadx: Dex to Java decompiler](https://github.com/skylot/jadx)
+* [GitHub - k273811702/NoOne: 一款windows64位的ark工具 rootkit](https://github.com/k273811702/NoOne)
 
-  * [JEB Decompiler by PNF Software](https://www.pnfsoftware.com/)
+* [ATOOL | 安天实验室](https://www.antiy.com/tools.html)
 
-  * [GitHub - iBotPeaches/Apktool: A tool for reverse engineering Android apk files](https://github.com/iBotPeaches/Apktool)
+* PCHunter
 
-* 调试工具
-  * [GitHub - x64dbg/x64dbg: An open-source user mode debugger for Windows](https://github.com/x64dbg/x64dbg)
+# HEX工具
 
-  * [OllyDbg v1.10](https://www.ollydbg.de/)
+* [010 Editor - Pro Text/Hex Editor](https://www.sweetscape.com/)
 
-  * [IDA Pro: Hex Rays – State-of-the-art binary code analysis solutions (hex-rays.com)](https://hex-rays.com/)
+* [WinHex: Hex Editor & Disk Editor](https://www.x-ways.net/winhex/)
 
-  * [WinDbg - Windows drivers | Microsoft Learn](https://learn.microsoft.com/zh-CN/windows-hardware/drivers/debugger/)
+# PE工具
 
-  * [Cheat Engine](https://www.cheatengine.org/)
-  
-  * [DebugView - Sysinternals | Microsoft Learn](https://learn.microsoft.com/zh-cn/sysinternals/downloads/debugview)
-  
-* 监控工具
-  * [API Monitor](https://www.rohitab.com/)
+* [GitHub - ExeinfoASL/Exeinfo: exeinfo PE for Windows by A.S.L](https://github.com/ExeinfoASL/Exeinfo)
 
-  * MemMapView
+* PEiD
 
-  * [进程资源管理器 - Sysinternals | Microsoft Learn](https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer)
+* [GitHub - horsicq/Detect-It-Easy: Program for determining types of files](https://github.com/horsicq/Detect-It-Easy)
 
-  * [Windows 性能工具包 | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows-hardware/test/wpt/)
+* [PPEE - Professional PE Explorer (mzrst.com)](https://www.mzrst.com/)
 
-  * [应用程序验证程序 - 概述 - Windows drivers | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows-hardware/drivers/devtest/application-verifier)
-  
-  * [GitHub - strobejb/winspy: WinSpy++](https://github.com/strobejb/winspy)
-  
-* 密码工具
-  * [CyberChef](https://cyberchef.org/)
+# 安卓逆向工具
 
-* 网络工具
-  * [Web Debugging Proxy and Troubleshooting Tools|Fiddler (telerik.com)](https://www.telerik.com/fiddler)
-  * [Wireshark · Go Deep](https://www.wireshark.org/)
+* [GitHub - skylot/jadx: Dex to Java decompiler](https://github.com/skylot/jadx)
+
+* [JEB Decompiler by PNF Software](https://www.pnfsoftware.com/)
+
+* [GitHub - iBotPeaches/Apktool: A tool for reverse engineering Android apk files](https://github.com/iBotPeaches/Apktool)
+
+# 调试工具
+
+* [GitHub - x64dbg/x64dbg: An open-source user mode debugger for Windows](https://github.com/x64dbg/x64dbg)
+
+* [OllyDbg v1.10](https://www.ollydbg.de/)
+
+* [IDA Pro: Hex Rays – State-of-the-art binary code analysis solutions (hex-rays.com)](https://hex-rays.com/)
+
+* [WinDbg - Windows drivers | Microsoft Learn](https://learn.microsoft.com/zh-CN/windows-hardware/drivers/debugger/)
+
+* [Cheat Engine](https://www.cheatengine.org/)
+
+* [DebugView - Sysinternals | Microsoft Learn](https://learn.microsoft.com/zh-cn/sysinternals/downloads/debugview)
+
+# 监控工具
+
+* [API Monitor](https://www.rohitab.com/)
+
+* MemMapView
+
+* [进程资源管理器 - Sysinternals | Microsoft Learn](https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer)
+
+* [Windows 性能工具包 | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows-hardware/test/wpt/)
+
+* [应用程序验证程序 - 概述 - Windows drivers | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows-hardware/drivers/devtest/application-verifier)
+
+* [GitHub - strobejb/winspy: WinSpy++](https://github.com/strobejb/winspy)
+
+# 密码工具
+
+* [CyberChef](https://cyberchef.org/)
+
+# 网络工具
+
+* [Web Debugging Proxy and Troubleshooting Tools|Fiddler (telerik.com)](https://www.telerik.com/fiddler)
+* [Wireshark · Go Deep](https://www.wireshark.org/)
 
