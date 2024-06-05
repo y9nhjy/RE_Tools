@@ -102,3 +102,11 @@
 * [Web Debugging Proxy and Troubleshooting Tools|Fiddler (telerik.com)](https://www.telerik.com/fiddler)
 * [Wireshark · Go Deep](https://www.wireshark.org/)
 
+# IDA插件
+
+* [GitHub - 0xjiayu/go_parser: Yet Another Golang binary parser for IDAPro](https://github.com/0xjiayu/go_parser)
+* [GitHub - polymorf/findcrypt-yara: IDA pro plugin to find crypto constants](https://github.com/polymorf/findcrypt-yara)
+* [GitHub - sibears/IDAGolangHelper: Set of IDA Pro scripts for parsing GoLang](https://github.com/sibears/IDAGolangHelper)
+* [GitHub - fjqisba/E-Decompiler: 用来辅助分析易语言程序的IDA插件](https://github.com/fjqisba/E-Decompiler)
+* [GitHub - joydo/d810](https://github.com/joydo/d810)
+
