@@ -30,6 +30,7 @@
 * [dotPeek: Free .NET Decompiler & Assembly Browser by JetBrains](https://www.jetbrains.com/decompiler/)
 
 
+
 # ARK工具
 
 * [GitHub - szdyg/HRSword: 火绒剑独立版](https://github.com/szdyg/HRSword)
@@ -42,11 +43,15 @@
 
 * PCHunter
 
+
+
 # HEX工具
 
 * [010 Editor - Pro Text/Hex Editor](https://www.sweetscape.com/)
 
 * [WinHex: Hex Editor & Disk Editor](https://www.x-ways.net/winhex/)
+
+
 
 # PE工具
 
@@ -58,6 +63,10 @@
 
 * [PPEE - Professional PE Explorer (mzrst.com)](https://www.mzrst.com/)
 
+* [EquiFox/KsDumper: Dumping processes using the power of kernel space !](https://github.com/EquiFox/KsDumper)
+
+
+
 # 安卓逆向工具
 
 * [GitHub - skylot/jadx: Dex to Java decompiler](https://github.com/skylot/jadx)
@@ -66,11 +75,15 @@
 
 * [GitHub - iBotPeaches/Apktool: A tool for reverse engineering Android apk files](https://github.com/iBotPeaches/Apktool)
 
+
+
 # 反汇编工具
 
 * [IDA Pro: Hex Rays – State-of-the-art binary code analysis solutions (hex-rays.com)](https://hex-rays.com/)
 * [GitHub - avast/retdec: RetDec is a retargetable machine-code decompiler based on LLVM](https://github.com/avast/retdec)
 * [GitHub - NationalSecurityAgency/ghidra: Ghidra is a software reverse engineering (SRE) framework](https://github.com/NationalSecurityAgency/ghidra)
+
+
 
 # 调试工具
 
@@ -80,34 +93,64 @@
 * [Cheat Engine](https://www.cheatengine.org/)
 * [DebugView - Sysinternals | Microsoft Learn](https://learn.microsoft.com/zh-cn/sysinternals/downloads/debugview)
 
+
+
 # 监控工具
 
+## API
+
 * [API Monitor](https://www.rohitab.com/)
+* [WinAPIOverride : Free Advanced API Monitor, spy or override API or exe internal functions](http://jacquelin.potier.free.fr/winapioverride32/)
+
+## Share Memory
 
 * MemMapView
 
+## Process
+
+* [Overview - System Informer](https://www.systeminformer.com/)
 * [进程资源管理器 - Sysinternals | Microsoft Learn](https://learn.microsoft.com/zh-cn/sysinternals/downloads/process-explorer)
-
+* [hzqst/Syscall-Monitor: Syscall Monitor is a system monitor program (like Sysinternal's Process Monitor) using Intel VT-X/EPT for Windows7+](https://github.com/hzqst/Syscall-Monitor)
 * [Windows 性能工具包 | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows-hardware/test/wpt/)
-
 * [应用程序验证程序 - 概述 - Windows drivers | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows-hardware/drivers/devtest/application-verifier)
 
+## Window
+
 * [GitHub - strobejb/winspy: WinSpy++](https://github.com/strobejb/winspy)
+
+## Registry
+
+* [RegSnap - Registry Tracer](https://lastbit.com/regsnap/default.asp)
+
+
 
 # 密码工具
 
 * [CyberChef](https://cyberchef.org/)
 
+
+
 # 网络工具
 
 * [Web Debugging Proxy and Troubleshooting Tools|Fiddler (telerik.com)](https://www.telerik.com/fiddler)
 * [Wireshark · Go Deep](https://www.wireshark.org/)
+* [HTTP Debugger - Debug HTTP API Calls to Back-ends](https://www.httpdebugger.com/)
 
-# IDA插件
+
+
+# 插件
+
+## IDA
 
 * [GitHub - 0xjiayu/go_parser: Yet Another Golang binary parser for IDAPro](https://github.com/0xjiayu/go_parser)
 * [GitHub - polymorf/findcrypt-yara: IDA pro plugin to find crypto constants](https://github.com/polymorf/findcrypt-yara)
 * [GitHub - sibears/IDAGolangHelper: Set of IDA Pro scripts for parsing GoLang](https://github.com/sibears/IDAGolangHelper)
 * [GitHub - fjqisba/E-Decompiler: 用来辅助分析易语言程序的IDA插件](https://github.com/fjqisba/E-Decompiler)
 * [GitHub - joydo/d810](https://github.com/joydo/d810)
+* [GitHub - 0xgalz/Virtuailor: IDAPython tool for creating automatic C++ virtual tables in IDA Pro](https://github.com/0xgalz/Virtuailor)
+* [GitHub - anatolikalysch/VMAttack: VMAttack PlugIn for IDA Pro](https://github.com/anatolikalysch/VMAttack)
+
+## x64dbg
+
+* [x64dbg/ScyllaHide: Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide](https://github.com/x64dbg/ScyllaHide)
 
